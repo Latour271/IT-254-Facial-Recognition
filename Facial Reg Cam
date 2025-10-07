@@ -1,3 +1,5 @@
 IT 254 Facial Recognition Camera
 It will require a lot of software. For example, C++, Google Teachable, Python, and Visual Studio
 Requires minimal hardware, like a Camera and the Arduino
+For now, we want our camera to recognize an "Approved Face", as in like a human or non-human
+Later on, we want our camera to recognize gender, facial expressions, skin tone, and estimated age.
